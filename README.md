@@ -40,8 +40,9 @@ and you can access the application in your browser.
 - Delete Post: On the post details page, you can delete the post by clicking the "Delete the post" button. A confirmation prompt will appear before deletion.
 ## Design
 The home page where all the posts are displayed design.  
-<img src="./assets/postspage.png" width="500">
-The new post page design
+<img src="./assets/postspage.png" width="500">  
+
+The new post page design  
 <img src="./assets/newpost.png" width="500">
 ## API Endpoints
 The application communicates with the following API endpoints:
